@@ -1,0 +1,6 @@
+{
+  "name": "repro",
+  "devDependencies": {
+    "url": "0.11.0"
+  }
+}
